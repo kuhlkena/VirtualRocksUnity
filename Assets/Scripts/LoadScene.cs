@@ -10,6 +10,12 @@ public class LoadScene : MonoBehaviour
         if(index == 2){
             SceneManager.LoadScene("WestonElginHw");
         }
+        if(index == 3){
+            SceneManager.LoadScene("MtCarmelJunction");
+        }
+        if(index == 4){
+            SceneManager.LoadScene("TwinSisters");
+        }
     }
 
     public void baclToMenu(){

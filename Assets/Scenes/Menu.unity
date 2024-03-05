@@ -417,7 +417,11 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: Mojave
       m_Image: {fileID: 0}
-    - m_Text: WestonElginHw
+    - m_Text: Weston Elgin Hw
+      m_Image: {fileID: 0}
+    - m_Text: Mt Carmel Junction
+      m_Image: {fileID: 0}
+    - m_Text: Twin Sisters
       m_Image: {fileID: 0}
     - m_Text: 
       m_Image: {fileID: 0}

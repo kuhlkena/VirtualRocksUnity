@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mojave/Mojave.unity
     guid: 3875aca3fc730d24ebd8363782121034
+  - enabled: 1
+    path: Assets/Scenes/MtCarmelJunction/MtCarmelJunction.unity
+    guid: 02617c2b67a70b84c9f71f56edc9b3ba
+  - enabled: 1
+    path: Assets/Scenes/TwinSisters/TwinSisters.unity
+    guid: e994edf2ac02a0c4bbc467073bcaa740
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9ce841c4f3384b340a0e3a3a281100eb, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1975b8465e803124684af9e8dfa1e4cc, type: 2}
